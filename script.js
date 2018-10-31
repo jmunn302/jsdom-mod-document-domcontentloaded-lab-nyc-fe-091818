@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", e => {
 
 
 
-document.querySelector("div#hidden-div") {
-  div#hidden-div.innerText.to.equal('301');
+document.querySelector("#hidden-div") {
+
 }
 
 })
