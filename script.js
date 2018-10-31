@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", e => {
 
 document.querySelector("#hidden-div") {
   hidden-div.innerText = "301";
-
 }
 
 })
